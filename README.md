@@ -1,3 +1,3 @@
 # apnacollege
-first try to learn githuub
+first try to learn github
 author - Pranjal 
